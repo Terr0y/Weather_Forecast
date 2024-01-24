@@ -7,16 +7,17 @@ This Weather forecast is an interactive web application that provides real-time 
 
 Screenshot of the Weather Dashboard
 
-Features
-Current Weather Display: Shows the weather conditions of the searched city, including temperature, humidity, wind speed, and an icon representing the weather condition.
+## Features
 
-5-Day Weather Forecast: Provides a forecast for the next five days, displaying information similar to the current weather along with the date.
+* Current Weather Display: Shows the weather conditions of the searched city, including temperature, humidity, wind speed, and an icon representing the weather condition.
 
-Search History: Keeps a history of searched cities for easy access to previous searches.
+* 5-Day Weather Forecast: Provides a forecast for the next five days, displaying information similar to the current weather along with the date.
 
-Responsive Design: The layout is responsive, making it suitable for a variety of devices and screen sizes.
+* Search History: Keeps a history of searched cities for easy access to previous searches.
 
-How to Use
+* Responsive Design: The layout is responsive, making it suitable for a variety of devices and screen sizes.
+
+## How to Use
 Search for a City: Enter the name of a city in the search bar and click the 'Search' button. The current weather and 5-day forecast for that city will be displayed.
 
 View Weather Details: The current weather is displayed prominently, with key details like temperature, humidity, and wind speed. Below, the 5-day forecast is presented in a horizontally scrollable format.
