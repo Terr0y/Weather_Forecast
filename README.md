@@ -18,11 +18,12 @@ Screenshot of the Weather Dashboard
 * Responsive Design: The layout is responsive, making it suitable for a variety of devices and screen sizes.
 
 ## How to Use
-Search for a City: Enter the name of a city in the search bar and click the 'Search' button. The current weather and 5-day forecast for that city will be displayed.
 
-View Weather Details: The current weather is displayed prominently, with key details like temperature, humidity, and wind speed. Below, the 5-day forecast is presented in a horizontally scrollable format.
+* Search for a City: Enter the name of a city in the search bar and click the 'Search' button. The current weather and 5-day forecast for that city will be displayed.
 
-Access Search History: Click on any city name listed under the search history to quickly view the weather for that location again.
+* View Weather Details: The current weather is displayed prominently, with key details like temperature, humidity, and wind speed. Below, the 5-day forecast is presented in a horizontally scrollable format.
+
+* Access Search History: Click on any city name listed under the search history to quickly view the weather for that location again.
 
 Installation and Setup
 To set up the Weather Dashboard on your local machine, follow these steps:
