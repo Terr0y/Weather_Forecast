@@ -25,8 +25,9 @@ Screenshot of the Weather Dashboard
 
 * Access Search History: Click on any city name listed under the search history to quickly view the weather for that location again.
 
-Installation and Setup
-To set up the Weather Dashboard on your local machine, follow these steps:
+## Installation
+
+No installation required
 
 Technologies Used
 HTML
