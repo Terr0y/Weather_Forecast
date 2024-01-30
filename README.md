@@ -2,6 +2,8 @@
 
 ## Deployed URL
 
+https://terr0y.github.io/Weather_Forecast/
+
 ## Description
 
 This Weather forecast is an interactive web application that provides real-time weather information, including current conditions and a 5-day forecast. Users can search for any city to get detailed weather data such as temperature, humidity, wind speed, and more. The application is designed to be user-friendly and visually appealing.
