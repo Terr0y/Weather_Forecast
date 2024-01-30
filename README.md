@@ -6,8 +6,6 @@
 
 This Weather forecast is an interactive web application that provides real-time weather information, including current conditions and a 5-day forecast. Users can search for any city to get detailed weather data such as temperature, humidity, wind speed, and more. The application is designed to be user-friendly and visually appealing.
 
-
-
 ## Features
 
 - Current Weather Display: Shows the weather conditions of the searched city, including temperature, humidity, wind speed, and an icon representing the weather condition.
