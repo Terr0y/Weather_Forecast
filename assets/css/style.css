@@ -58,3 +58,7 @@ body {
 #forecast .forecast-card img {
   width: 50px;
 }
+
+.card-height{
+  min-height: 242px;
+}
